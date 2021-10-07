@@ -1,0 +1,12 @@
+git add -A / <path>
+git commit -m "sadasd"
+git push
+git pull
+git checkout master / git checkout my-branch
+git status
+
+git merge master
+git rebase
+git cherry-pick
+git stash
+git reset
